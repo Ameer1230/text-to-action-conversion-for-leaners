@@ -1,0 +1,102 @@
+{
+    "users": [
+        {
+            "name": "User",
+            "email": "user@mail.com",
+            "age": 22,
+            "sex": "Male",
+            "password": "123"
+        },
+        {
+            "name": "test",
+            "email": "test@gmail.com",
+            "age": 12,
+            "sex": "Male",
+            "password": "12345"
+        },
+        {
+            "name": "mohamed ameer ",
+            "email": "reddot5454@gmail.com",
+            "age": 18,
+            "sex": "Male",
+            "password": "Ameer@2003"
+        },
+        {
+            "name": "KUSHAL ",
+            "email": "kushalgrandhe123@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "kushal@2003"
+        },
+        {
+            "name": "Md Ameer",
+            "email": "mohamedameer1295@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "eZa8T4P-PjGs_!Y"
+        },
+        {
+            "name": "Md Ameer",
+            "email": "reddot5454@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "12345"
+        },
+        {
+            "name": "Md Ameer",
+            "email": "mamtayadav367609@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "eZa8T4P-PjGs_!Y"
+        },
+        {
+            "name": "Md Ameer",
+            "email": "reddot5454@gmail.com",
+            "age": 19,
+            "sex": "Male",
+            "password": "eZa8T4P-PjGs_!Y"
+        },
+        {
+            "name": "c",
+            "email": "ed",
+            "age": 20,
+            "sex": "Male",
+            "password": "123"
+        },
+        {
+            "name": "ameer",
+            "email": "reddot5454@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "12345"
+        },
+        {
+            "name": "md",
+            "email": "reddot5454@gmail.com",
+            "age": 0,
+            "sex": "Male",
+            "password": ""
+        },
+        {
+            "name": "md",
+            "email": "reddot5454@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "123"
+        },
+        {
+            "name": "md",
+            "email": "reddot5454@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "12"
+        },
+        {
+            "name": "kushal",
+            "email": "ameer@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "12345"
+        }
+    ]
+}
